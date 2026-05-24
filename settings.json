@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Rusty Ka Bets",
   "bot-account": {
-    "username": "Technoblade",
-    "password": "",
+    "username": "TeraBAap",
+    "password": "aurbhencho",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "HamsterKiSMPHaiYe.aternos.me",
+    "port": 14053,
     "version": "1.21.1"
   },
   "position": {
